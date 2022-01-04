@@ -1,0 +1,33 @@
+.busqueda{
+    padding: 2px 40px;
+    margin: 30px 0px 0px 40px;
+    color:aqua;
+    background-color: white;
+    border-style: solid;
+    border-color: aqua;
+    border-radius: 10px;
+}
+.mas{
+    width: 30px;
+    height: 30px;
+    display: block;
+    margin: 10px 0px 0px 40px;
+    background-color: turquoise;
+    color: white;
+    border-radius: 50%;
+    border-color: turquoise;
+    border-style: solid;
+}
+.crear{
+    padding: 2px 20px;
+    margin: 10px 0px 0px 40px;
+    color: white;
+    background-color: rgb(26, 74, 235);
+    border-color: black;
+    border-style: solid;
+    box-shadow: 10px 5px 5px black;
+}
+.crear:hover{
+    background-color: rgb(64, 107, 247);
+    cursor: pointer;
+}
